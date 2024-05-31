@@ -1,0 +1,11 @@
+{
+    "search.exclude": {
+        "": true,
+        "**/node_modules": false
+    },
+    "search.useParentIgnoreFiles": false,
+    "search.useIgnoreFiles": true,
+    "files.exclude": {
+        "**/.git": false
+    }
+}

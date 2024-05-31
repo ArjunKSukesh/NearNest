@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874123900753",
+    "project_id": "rentaroom-a8068",
+    "storage_bucket": "rentaroom-a8068.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874123900753:android:7d28a35b3eb724dd230570",
+        "android_client_info": {
+          "package_name": "com.rentaroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874123900753-trn0uqbvj5ut5fue5qrb9u9qc4sjv6tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXaN2BcyeuK0ZQIZ7tHGlCa3oDGVeFrys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874123900753-trn0uqbvj5ut5fue5qrb9u9qc4sjv6tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
